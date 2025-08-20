@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on mobile development
+- 🌱 I’m currently learning Expo
+- ⚡ Fun fact: I can speak more than 1 language
 <!--
 **taclan17/taclan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
